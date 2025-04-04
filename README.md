@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development
+🔭 I’m currently working on Web and Mobile Apps Development
 
 📧 00kocfurkan@gmail.com
 
